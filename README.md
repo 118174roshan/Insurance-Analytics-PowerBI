@@ -163,3 +163,12 @@ Scheduled Refresh
 Enabled RLS
 
 Shared dashboard with users
+
+Dashboard_screenshot:
+
+1...
+<img width="1743" height="778" alt="image" src="https://github.com/user-attachments/assets/f394cc39-7eac-42a2-8183-3aac99c2dbb3" />
+2..
+<img width="1699" height="845" alt="image" src="https://github.com/user-attachments/assets/a593f728-fd34-4e9b-9720-cd1550ca48ed" />
+
+
